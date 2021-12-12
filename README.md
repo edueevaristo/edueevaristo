@@ -1,13 +1,13 @@
 ## Olá!! Eu sou o Eduardo Evaristo 👋
 
-- 🔭 Hoje eu trabalho como suporte 
-- 🌱 Estudando HTML, CSS, JavaScript
+- 🔭 Hoje eu trabalho como suporte na empresa Fábrica de Códigos
+- 🌱 Estudando HTML, CSS, JavaScript para me aprofundar no Dev Web!
 - 💬 Contate-me no email: eduevaristo_dev@hotmail.com
 
   <div align="center">
   <a href="https://github.com/edueevaristo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=edueevaristo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edueevaristo&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=edueevaristo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edueevaristo&layout=compact&langs_count=7&theme=dark"/>
   </div>
   
   <div style="display: inline_block"><br>
