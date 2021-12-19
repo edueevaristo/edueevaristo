@@ -25,4 +25,7 @@
   <a href="https://www.linkedin.com/in/eduardo-evaristo-35151a156/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=5514997918312&text=Ol%C3%A1%20Eduardo!%20Tudo%20bem%3F%20Venho%20por%20meio%20de%20seu%20perfil%20do%20Github!!" target="_blank">     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   </div>
+  <div>
+  ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=WelissonLuca.WelissonLuca&color=00cf00) 
+</div>
  
