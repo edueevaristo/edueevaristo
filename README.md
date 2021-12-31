@@ -1,6 +1,4 @@
 ## Olá!! Eu sou o Eduardo Evaristo 👋
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="540" height="320" left="5"/>
-
 <br/>
 
 
