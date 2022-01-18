@@ -5,7 +5,7 @@
 
 - 🔭 Analista de suporte na empresa Fábrica de Códigos
 - 🌱 Estudando HTML, CSS, JavaScript para me aprofundar no Desenvolvimento Web, futuramente, desejo iniciar os estudos em PHP com ênfase no framemork CodeIgniter.
-- 💬 Contate-me no email: mailto:eduevaristo_dev@hotmail.com
+- 💬 Contate-me no email: eduevaristo_dev@hotmail.com
 
   <div align="center">
   <a href="https://github.com/edueevaristo">
