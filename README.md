@@ -1,12 +1,6 @@
 ## Prazer galera! Eu sou o Eduardo Evaristo! :smile:
 <br/>
 
-
-
-- 🔭 Analista de suporte na empresa Fábrica de Códigos
-- 🌱 HTML, CSS, JavaScript para me aprofundar no Desenvolvimento Web,<br> atualmente, sigo nos estudos em PHP com ênfase no framemork CodeIgniter 3/4.
-- 💬 Contate-me no email: eduevaristo_dev@hotmail.com
-
   <div>
   <a href="https://github.com/edueevaristo">
   <img src="https://github-readme-stats.vercel.app/api?username=edueevaristo&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="160em"/>
