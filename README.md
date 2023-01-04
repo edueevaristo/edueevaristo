@@ -7,7 +7,7 @@
   </div>
 
   
-  <h3>Linguagens e frameworks que possuo conhecimento e que já utilizei/utilizo no momento</h3>
+  <h3>Linguagens, frameworks e plataformas que possuo conhecimento e que já utilizei/utilizo no momento</h3>
   <div style="display: inline_block">
   <img align="center" alt="Edu-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Edu-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -17,6 +17,8 @@
   <img align="center" alt="Edu-CI" src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white">
   <img align="center" alt="Edu-LARAVEL" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img align="center" alt="Edu-DART" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
+  <img align="center" alt="Edu-POSTGRES" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img align="center" alt="Edu-SQLITE" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   </div>
   <hr>
   
