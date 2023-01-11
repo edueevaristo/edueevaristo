@@ -15,7 +15,7 @@ Quer bater um papo e trocar umas idéias para desenvolvimento? Você pode me con
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <img width="400" src="https://i.imgur.com/bXxIgrd.png" />
+      <img width="400" src="https://w0.peakpx.com/wallpaper/830/599/HD-wallpaper-world-at-night-2020-shellz-art-badass-black-blue-city-code-cool-cyber-cyberpunk-fiction-game-gamer-geek-glow-hack-hacker-headphones-lights-navy-neon-nerd-new-year-programmer-sci.jpg" />
     </td>
     <td style="border: 0";>
       <p>
