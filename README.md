@@ -18,12 +18,6 @@ Quer bater um papo e trocar umas idéias para desenvolvimento? Você pode me con
       <img width="400" src="https://i.imgur.com/bXxIgrd.png" />
     </td>
     <td style="border: 0";>
-      <p>
-        💻 Project focused on quality content on programming and technology in general <a href="https://www.instagram.com/guiadevbrasil/">Guia Dev Brasil<a/>.
-      </p>
-      <p>
-        🌙 Making daily content in <a href="https://www.instagram.com/guiadevbrasil/">@guiadevbrasil</a>, I supplement that writing with <a href="https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g">videos on Youtube</a>.
-      </p>
       <h3>Outras plataformas que você pode me encontrar:</h3>
       <ul>
         <li>
