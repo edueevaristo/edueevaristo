@@ -24,7 +24,7 @@ Quer bater um papo e trocar umas idéias para desenvolvimento? Você pode me con
       <h3>Outras plataformas que você pode me encontrar:</h3>
       <ul>
         <li>
-          🐦 <a href="[https://twitter.com/dualmostsad]">Siga-me no Twitter</a>
+          🐦 <a href="https://twitter.com/dualmostsad">Siga-me no Twitter</a>
         </li>
         <li>
           📷 <a href="https://www.instagram.com/edueevaristo_/">Siga-me no Instagram</a>
