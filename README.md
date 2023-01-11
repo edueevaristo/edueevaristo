@@ -5,6 +5,7 @@
   [![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/arthurspk)]([https://www.facebook.com/seixasqlc/](https://www.facebook.com/eduardo.evaristo.146))
   [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/arthurspk)](https://www.instagram.com/edueevaristo_/)
   [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)]([https://www.linkedin.com/in/arthurspk/](https://www.linkedin.com/in/eduardo-evaristo-35151a156/))
+  [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://github.com/arthurspk)](https://api.whatsapp.com/send?phone=5514997918312&text=Ol%C3%A1%20Eduardo!%20Tudo%20bem%3F%20Venho%20por%20meio%20de%20seu%20perfil%20do%20Github!!)
   [![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://github.com/arthurspk)](https://open.spotify.com/user/52d6ubchjx3oyf4kkf69v1arm)
   
 </h4>
