@@ -1,40 +1,47 @@
 ## Prazer, eu sou o Eduardo! 👨🏻‍💻
 
-  <h4 align="center">
+<h4 align="center">
 
-[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/arthurspk)](https://www.facebook.com/seixasqlc/)
-[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/arthurspk)](https://www.instagram.com/arthurspk/)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)](https://www.linkedin.com/in/arthurspk/)
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://github.com/arthurspk)](https://open.spotify.com/user/Heimdallr0?fbclid=IwAR0vLf9kXegU7iZNCy3IJ1S6vb3sJ6CRRXelpW5tDOG5trSUGZ8SK4-Yjfg)
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g)
-[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NbMQUPjHz7)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arthurguiadev)
-
+  [![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/arthurspk)]([https://www.facebook.com/seixasqlc/](https://www.facebook.com/eduardo.evaristo.146))
+  [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/arthurspk)](https://www.instagram.com/edueevaristo_/)
+  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)]([https://www.linkedin.com/in/arthurspk/](https://www.linkedin.com/in/eduardo-evaristo-35151a156/))
+  [![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://github.com/arthurspk)](https://open.spotify.com/user/52d6ubchjx3oyf4kkf69v1arm)
+  
 </h4>
+  
+Sou apaixonado por tecnologia! Tive meu primeiro contato com a informática aos 15 anos de idade e desde então venho descobrindo um pouco mais sobre essa área maravilhosa.Tenho conhecimento em: JavaScript, JQuery, SQL, MySQL, API Rest, HTML, CSS, Bootstrap, GIT, PHP, CodeIgniter, Laravel.
+Quer bater um papo e trocar umas idéias para desenvolvimento? Você pode me contatar em eduevaristo_dev@hotmail.com
 
-  
-  <h3>Linguagens, frameworks e plataformas que possuo conhecimento e que já utilizei/utilizo no momento</h3>
-  <div style="display: inline_block">
-  <img align="center" alt="Edu-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Edu-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Edu-JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Edu-JQUERY" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
-  <img align="center" alt="Edu-PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img align="center" alt="Edu-CI" src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white">
-  <img align="center" alt="Edu-LARAVEL" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img align="center" alt="Edu-DART" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
-  <img align="center" alt="Edu-POSTGRES" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img align="center" alt="Edu-SQLITE" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-  </div>
-  <hr>
-  
-  
-  <h3>Entre em contato comigo através de minhas redes sociais abaixo:</h3>
-  <div>
-  <a href="https://instagram.com/edueevaristo_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/kenaii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="mailto:eduevaristo_dev@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eduardo-evaristo-35151a156/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=5514997918312&text=Ol%C3%A1%20Eduardo!%20Tudo%20bem%3F%20Venho%20por%20meio%20de%20seu%20perfil%20do%20Github!!" target="_blank">     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  </div>
- 
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="border: 0";>
+      <img width="400" src="https://i.imgur.com/bXxIgrd.png" />
+    </td>
+    <td style="border: 0";>
+      <p>
+        💻 Project focused on quality content on programming and technology in general <a href="https://www.instagram.com/guiadevbrasil/">Guia Dev Brasil<a/>.
+      </p>
+      <p>
+        🌙 Making daily content in <a href="https://www.instagram.com/guiadevbrasil/">@guiadevbrasil</a>, I supplement that writing with <a href="https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g">videos on Youtube</a>.
+      </p>
+      <h3>Outras plataformas que você pode me encontrar:</h3>
+      <ul>
+        <li>
+          🐦 <a href="[https://twitter.com/dualmostsad]">Siga-me no Twitter</a>
+        </li>
+        <li>
+          📷 <a href="https://www.instagram.com/edueevaristo_/">Siga-me no Instagram</a>
+        </li>
+        <li>
+          📬 <a href=mailto:eduevaristo_dev@hotmail.com>CEntre em contato pelo meu e-mail</a>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=edueevaristo&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edueevaristo&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=edueevaristo&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edueevaristo&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=edueevaristo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
