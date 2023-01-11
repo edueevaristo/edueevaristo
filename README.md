@@ -18,6 +18,9 @@ Quer bater um papo e trocar umas idéias para desenvolvimento? Você pode me con
       <img width="400" src="https://i.imgur.com/bXxIgrd.png" />
     </td>
     <td style="border: 0";>
+      <p>
+        💻 A perfeição não é alcançada quando já não há mais nada para adicionar, mas quando já não há mais nada que se retirar.” — Antoine de Saint-Exupéry
+      </p>
       <h3>Outras plataformas que você pode me encontrar:</h3>
       <ul>
         <li>
