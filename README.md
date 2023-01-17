@@ -31,7 +31,7 @@ Quer bater um papo e trocar umas idéias para desenvolvimento? Você pode me con
           📷 <a href="https://www.instagram.com/edueevaristo_/">Siga-me no Instagram</a>
         </li>
         <li>
-          📬 <a href=mailto:eduevaristo_dev@hotmail.com>CEntre em contato pelo meu e-mail</a>
+          📬 <a href=mailto:eduevaristo_dev@hotmail.com>Entre em contato pelo meu e-mail</a>
         </li>
       </ul>
     </td>
