@@ -10,7 +10,7 @@
   
 </h4>
   
-Sou apaixonado por tecnologia! Tive meu primeiro contato com a informática aos 15 anos de idade e desde então venho descobrindo um pouco mais sobre essa área maravilhosa. Tenho conhecimento em: JavaScript/JQuery, SQL, MySQL, API Rest, HTML, CSS, Bootstrap, GIT, PHP, CodeIgniter, Laravel e atualmente, estudando Python e React Native.
+Sou apaixonado por tecnologia! Tive meu primeiro contato com a informática aos 15 anos de idade e desde então venho descobrindo um pouco mais sobre essa área maravilhosa. Tenho conhecimento em: JavaScript/JQuery, SQL, MySQL, API Rest, HTML, CSS, Bootstrap, GIT, PHP, CodeIgniter, Laravel (intermediário), Python (básico).
 Quer bater um papo e trocar umas idéias para desenvolvimento? Você pode me contatar em eduevaristo_dev@hotmail.com
 
 <table border="0" cellspacing="0" cellpadding="0">
