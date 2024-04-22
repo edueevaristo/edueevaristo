@@ -1,14 +1,6 @@
 ## Prazer pessoal, eu sou o Eduardo! 👨🏻‍💻
 
-<h4 align="center">
 
-  [![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/edueevaristo)]([https://www.facebook.com/seixasqlc/](https://www.facebook.com/eduardo.evaristo.146))
-  [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/edueevaristo)](https://www.instagram.com/edueevaristo_)
-  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/edueevaristo)](https://www.linkedin.com/in/eduardo-evaristo-35151a156)
-  [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://github.com/edueevaristo)](https://api.whatsapp.com/send?phone=5514997918312&text=Ol%C3%A1%20Eduardo!%20Tudo%20bem%3F%20Venho%20por%20meio%20de%20seu%20perfil%20do%20Github!!)
-  [![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://github.com/edueevaristo)](https://open.spotify.com/user/52d6ubchjx3oyf4kkf69v1arm)
-  
-</h4>
   
 Sou apaixonado por tecnologia! Tive meu primeiro contato com a informática aos 15 anos de idade e desde então venho descobrindo um pouco mais sobre essa área maravilhosa. Tenho conhecimento em: JavaScript/JQuery, SQL, MySQL, API Rest, HTML, CSS, Bootstrap, GIT, PHP, CodeIgniter, Laravel (intermediário), Python (básico).
 Quer bater um papo e trocar umas idéias para desenvolvimento? Você pode me contatar em eduevaristo_dev@hotmail.com
@@ -25,10 +17,7 @@ Quer bater um papo e trocar umas idéias para desenvolvimento? Você pode me con
       <h3>Outras plataformas que você pode me encontrar:</h3>
       <ul>
         <li>
-          🐦 <a href="https://twitter.com/dualmostsad">Siga-me no Twitter</a>
-        </li>
-        <li>
-          📷 <a href="https://www.instagram.com/edueevaristo_/">Siga-me no Instagram</a>
+          📷 <a href="https://www.instagram.com/eduardoe_dev/">Siga-me no Instagram</a>
         </li>
         <li>
           📬 <a href=mailto:eduevaristo_dev@hotmail.com>Entre em contato pelo meu e-mail</a>
