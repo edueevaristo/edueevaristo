@@ -1,9 +1,9 @@
-## Prazer pessoal, eu sou o Eduardo! 👨🏻‍💻
+## Nice to meet you, I'm Eduardo Evaristo! 👨🏻‍💻
 
 
   
-Sou apaixonado por tecnologia! Tive meu primeiro contato com a informática aos 15 anos de idade e desde então venho descobrindo um pouco mais sobre essa área maravilhosa. Tenho conhecimento em: JavaScript/JQuery, SQL, MySQL, API Rest, HTML, CSS, Bootstrap, GIT, PHP, CodeIgniter, Laravel (intermediário), Python (básico), C#, .NET CORE.
-Quer bater um papo e trocar umas idéias para desenvolvimento? Você pode me contatar em eduevaristo_dev@hotmail.com
+I'm passionate about technology! I had my first contact with computer science at the age of 15 and since then I've been discovering more about this wonderful area. I have knowledge of: JavaScript/JQuery, SQL, MySQL, Rest API, HTML, CSS, Bootstrap, GIT, PHP, CodeIgniter, Laravel (intermediate), Python (basic), C#, .NET CORE. Would you like to chat and exchange development ideas? You can contact me at eduevaristo_dev@hotmail.com
+
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -12,15 +12,15 @@ Quer bater um papo e trocar umas idéias para desenvolvimento? Você pode me con
     </td>
     <td style="border: 0";>
       <p>
-        💻 A perfeição não é alcançada quando já não há mais nada para adicionar, mas quando já não há mais nada que se retirar.” — Antoine de Saint-Exupéry
+        💻 "Perfection isn't achieved when there's nothing left to add, but when there's nothing left to take away." — Antoine de Saint-Exupéry
       </p>
-      <h3>Outras plataformas que você pode me encontrar:</h3>
+      <h3>Other platforms where you can find me:</h3>
       <ul>
         <li>
-          📷 <a href="https://www.instagram.com/eduardoe_dev/">Siga-me no Instagram</a>
+          📷 <a href="https://www.instagram.com/eduardoe_dev/">Follow me Instagram</a>
         </li>
         <li>
-          📬 <a href=mailto:eduevaristo_dev@hotmail.com>Entre em contato pelo meu e-mail</a>
+          📬 <a href=mailto:eduevaristo_dev@hotmail.com>Contact me by e-mail</a>
         </li>
       </ul>
     </td>
