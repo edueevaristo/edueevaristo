@@ -17,7 +17,7 @@ I'm passionate about technology! I had my first contact with computer science at
       <h3>Other platforms where you can find me:</h3>
       <ul>
         <li>
-          📷 <a href="https://www.instagram.com/eduardoe_dev/">Follow me Instagram</a>
+          📷 <a href="https://www.instagram.com/edueevaristo/">Follow me Instagram</a>
         </li>
         <li>
           📬 <a href=mailto:eduevaristo_dev@hotmail.com>Contact me by e-mail</a>
