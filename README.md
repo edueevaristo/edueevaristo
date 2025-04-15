@@ -8,7 +8,7 @@ I'm passionate about technology! I had my first contact with computer science at
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <img width="400" src="https://w0.peakpx.com/wallpaper/830/599/HD-wallpaper-world-at-night-2020-shellz-art-badass-black-blue-city-code-cool-cyber-cyberpunk-fiction-game-gamer-geek-glow-hack-hacker-headphones-lights-navy-neon-nerd-new-year-programmer-sci.jpg" />
+      <img width="400" src="https://i.imgur.com/W7kxut7.jpeg" />
     </td>
     <td style="border: 0";>
       <p>
