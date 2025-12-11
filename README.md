@@ -2,7 +2,7 @@
 
 
   
-I'm passionate about technology! I had my first contact with computer science at the age of 15 and since then I've been discovering more about this wonderful area. I have knowledge of: JavaScript/JQuery, SQL, MySQL, Rest API, HTML, CSS, Bootstrap, GIT, PHP, CodeIgniter, Laravel (intermediate), Python (basic), C#, .NET CORE. Would you like to chat and exchange development ideas? You can contact me at eduevaristo_dev@hotmail.com
+I'm passionate about technology! I had my first contact with computer science at the age of 15 and since then I've been discovering more about this wonderful area. I have knowledge of: JavaScript/JQuery/Vue.js, SQL, MySQL, Rest API, HTML, CSS, Bootstrap, GIT, PHP, CodeIgniter, Laravel, Python (basic), C#, .NET CORE. Would you like to chat and exchange development ideas? You can contact me at eduevaristo_dev@hotmail.com
 
 
 <table border="0" cellspacing="0" cellpadding="0">
