@@ -27,8 +27,8 @@ I'm passionate about technology! I had my first contact with computer science at
   </tr>
 </table>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=edueevaristo&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edueevaristo&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=edueevaristo&theme=nord_dark) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=edueevaristo&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edueevaristo&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=edueevaristo&theme=tokyonight) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edueevaristo&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=edueevaristo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edueevaristo&theme=tokyonight) | ![](https://streak-stats.demolab.com?user=edueevaristo&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D) |
 | :-: | :-: |
