@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Eduardo Evaristo
 
-I'm passionate about technology. I had my first contact with computer science at the age of 15, and since then I've been constantly learning and evolving in this field.
+Full Stack Developer with 3+ years of experience building scalable web applications, mainly for e-commerce. Passionate about technology since age 15, focused on clean architecture, performance, and well-structured solutions.
 
 ### Tech Stack & Skills
 - **Frontend:** JavaScript, jQuery, Vue.js, HTML, CSS, Bootstrap  
