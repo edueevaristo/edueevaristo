@@ -15,7 +15,7 @@ I enjoy building solutions, integrating systems, and improving performance and c
 I'm always open to exchanging ideas, discussing development, and collaborating on projects.
 
 - 📷 <a href="https://www.instagram.com/edueevaristo/">Instagram</a>
-- 🛜 <a href="https://www.eduardoevaristo.com.br">Meu portfólio</a>
+- 🛜 <a href="https://www.eduardoevaristo.com.br">My portfolio</a>
 - 📬 <a href="mailto:eduevaristo_dev@hotmail.com">E-mail</a>
 
 <hr>
