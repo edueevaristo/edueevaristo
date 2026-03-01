@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Eduardo Evaristo
 
-Full Stack Developer with 3+ years of experience building scalable web applications, mainly for e-commerce. Passionate about technology since age 15, focused on clean architecture, performance, and well-structured solutions.
+Full Stack Sênior Developer with 3+ years of experience building scalable web applications, mainly for e-commerce. Passionate about technology since age 15, focused on clean architecture, performance, and well-structured solutions.
 
 ### Tech Stack & Skills
 - **Frontend:** JavaScript, jQuery, Vue.js, HTML, CSS, Bootstrap  
