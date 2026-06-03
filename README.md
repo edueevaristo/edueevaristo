@@ -16,7 +16,7 @@ I'm always open to exchanging ideas, discussing development, and collaborating o
 
 - 📷 <a href="https://www.instagram.com/edueevaristo/">Instagram</a>
 - 🛜 <a href="https://www.eduardoevaristo.com.br">My portfolio</a>
-- 📬 <a href="mailto:eduevaristo_dev@hotmail.com">E-mail</a>
+- 📬 <a href="mailto:contato@eduardoevaristo.com.br">E-mail</a>
 
 <hr>
 
